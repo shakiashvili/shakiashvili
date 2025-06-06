@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Giorgi </h1>
 
 <p align="center">
   🚀 Passionate Software Testing Engineer | QA Automation | Python Developer  
@@ -8,8 +8,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=green" alt="Profile Views">
-  <img src="https://img.shields.io/github/stars/your-github-username/your-repo?style=flat-square&color=yellow" alt="Repo Stars">
+  <img src="https://komarev.com/ghpvc/?username=shakiashvili&style=flat-square&color=green" alt="Profile Views">
 </p>
 
 ---
@@ -45,16 +44,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakiashvili&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakiashvili&theme=radical" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiashvili&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or explore my work here on GitHub!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/george-shakiashvili or explore my work here on GitHub!
 
