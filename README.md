@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/george-shakiashvili" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <img src="https://komarev.com/ghpvc/?username=shakiashvili&style=flat-square&color=green" alt="Profile Views">
@@ -55,5 +55,5 @@
 
 ### 📫 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/george-shakiashvili or explore my work here on GitHub!
+Feel free to connect with me on [LinkedIn]
 
