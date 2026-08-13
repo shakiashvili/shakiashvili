@@ -1,59 +1,131 @@
-<h1 align="center">Hi there 👋, I'm Giorgi </h1>
+<h1 align="center">Hi, I'm Giorgi Shakiashvili 👋</h1>
 
 <p align="center">
-  🚀 Passionate Software Testing Engineer | QA Automation | Python Developer  
+  <strong>QA Engineer | UI, API & Database Testing | Test Automation</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/george-shakiashvili" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  Python • JavaScript • SQL • Playwright • Pytest • Postman • PostgreSQL • CI/CD
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/george-shakiashvili/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shakiashvili&style=flat-square&color=green" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=shakiashvili&style=flat-square&color=2ea44f" alt="Profile views">
 </p>
 
----
+About me
 
-### 👨‍💻 About Me
+I am a QA Engineer based in Tbilisi, Georgia, with hands-on experience in enterprise testing environments at EPAM Systems and Exactpro Systems. I am currently strengthening my full-stack QA skills through the Vention Fullstack QA Lab Program.
 
-- 🧪 1+ years of experience in software testing with a focus on automation  
-- 🐍 Proficient in Python test automation frameworks, especially **Pytest**  
-- 💻 Expertise in Selenium, Cypress, and WebDriverIO  
-- 🌐 Created and executed test suites and test cases across **web** and **API** layers  
-- 🔧 Hands-on experience with **Postman** and Python for **API testing**  
-- 🐞 Identified and documented bugs to improve product quality and resolution time  
-- 🤝 Collaborated in cross-functional Agile teams  
-- 📈 Participated in full STLC in Agile environments  
-- 🛠️ Tools: Jira, GitLab, GitHub
+My testing approach connects the full product flow:
 
----
+Requirements → UI → API → Database → Clear evidence
 
-### 🧰 Tech Stack & Tools
+Design and execute functional, regression, smoke, negative, cross-browser, and responsive tests
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
-  <img src="https://img.shields.io/badge/SQLAlchemy-ff0000?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-</p>
+Validate REST APIs, authentication, CRUD operations, response data, and business rules
 
----
+Compare UI and API results with PostgreSQL data to verify persistence and integrity
 
-### 📊 GitHub Stats
+Build and maintain automated tests with Python and JavaScript tools
+
+Investigate failures using logs, DevTools, Allure reports, SQL, and reproducible defect reports
+
+Collaborate with developers and QA teammates in Agile environments
+
+I am open to QA Engineer, Software Test Engineer, and Junior QA Automation Engineer opportunities in Georgia, as well as remote or hybrid international teams able to hire from Georgia.
+
+Experience snapshot
+
+Experience
+
+Focus
+
+Vention — Fullstack QA Lab Program (Training)
+
+UI/API/database testing, test design, Postman, PostgreSQL, Docker Compose, DevTools
+
+EPAM — Junior Software Testing Engineer
+
+Web and API automation, VIVIDUS, UAT, CI/CD, Allure, failure analysis, Jira
+
+EPAM — QA Engineer Intern
+
+Requirements analysis, test cases and checklists, regression testing, Postman, SQL validation
+
+Exactpro — Software QA Intern
+
+Manual testing, Python automation, STLC, defect reporting, GitLab and CI/CD exposure
+
+Selected QA work
+
+Full-stack testing — policy management application
+
+Tested connected workflows across the UI, REST API, and PostgreSQL database
+
+Applied Equivalence Partitioning, Boundary Value Analysis, and Decision Tables
+
+Built Postman collections and Flows with JavaScript assertions
+
+Covered CRUD, Bearer/OAuth authentication, negative cases, primary/foreign keys, and cascade behavior
+
+Reconciled API responses with database records to detect persistence and data-integrity issues
+
+Playwright E2E — MailLab UI
+
+Automated sign-in, email sending, attachment handling, saving, and moving messages to Trash
+
+Used reusable helpers, environment variables, and maintainable end-to-end flows
+
+FastAPI testing project
+
+Tested REST endpoints and database-backed CRUD flows with Pytest and HTTPX
+
+Worked with FastAPI, PostgreSQL, SQLAlchemy, and Docker Compose
+
+Tech stack
+
+Test automation
+
+
+
+
+
+
+
+Languages and API testing
+
+
+
+
+
+
+
+Database, delivery, and collaboration
+
+
+
+
+
+
+
+
+What I bring to a QA team
+
+A strong manual-testing foundation with growing automation depth
+
+Risk-based thinking instead of checking only happy paths and status codes
+
+Evidence-driven bug reporting across UI, API, and database layers
+
+Curiosity about how systems fail, not only how they are expected to work
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakiashvili&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakiashvili&theme=radical" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiashvili&layout=compact&theme=radical" alt="Top Languages">
+  <strong>Structured testing. Clear evidence. Better decisions.</strong>
 </p>
 
----
-
-### 📫 Let's Connect
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/george-shakiashvili/)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/george-shakiashvili/">Let's connect on LinkedIn</a>
+</p>
